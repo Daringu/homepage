@@ -105,7 +105,7 @@ body {
 }
 
 .contact-info__item:not(:last-child) {
-  margin-bottom: 20px;
+  margin-bottom: 21px;
 }
 
 .contact-info__item-icon-wrapper {
