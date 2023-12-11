@@ -132,6 +132,10 @@ body {
   border: 3px solid;
   border-color: var(--text-decoration-color);
 }
+.contact-info__avatar:hover {
+  scale: 2;
+  transition: all 0.5s ease-in-out;
+}
 /* --------------- Intro and skills styles----------------- */
 .intro {
   display: flex;
@@ -169,7 +173,7 @@ body {
   color: var(--secondary-text-color);
   text-align: justify;
 }
-/* ----------- Experience aand additional info styles */
+/* ----------- Experience aand additional info styles------------- */
 
 .experiences {
   flex: 1 1 60%;
